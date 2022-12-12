@@ -1,0 +1,2 @@
+Algoritmo de redução de dimensionalidade PCA;
+Algoritmo de recomendação de filmes.
