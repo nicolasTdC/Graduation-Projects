@@ -1,0 +1,3 @@
+http://www.imagecompression.info/test_images
+
+https://www.kaggle.com/datasets/saeedehkamjoo/standard-test-images
