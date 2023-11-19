@@ -1,0 +1,11 @@
+Kr
+Kr
+Kr
+Nao
+Sim
+Sim
+H, Be, B, Kr, Rb, Pd, I, Gd, No
+Sim
+Sim
+H, Be, B, N, Na, Cr, Kr, Rb, Pd, I, Gd, Au, Po, Pa, Am, Cm, Rf, Ds
+Ds

@@ -1,0 +1,90 @@
+Nao
+Re, Pb, Rg
+Nao
+Be, Ne, Ga, I, La, Re, Pb, Bi, Es, Md
+Md
+Be, Ne, Ga, I, La, Re, Pb, Bi, Es, Md
+Nao
+Nao
+Nao
+Nao
+Nao
+Nao
+Nao
+Nao
+Md
+Nao
+Be, Ne, Ga, I, La, Re, Pb, Bi, Cm, Es, Md
+Nao
+Nao
+Og
+Nao
+Nao
+Nao
+Nao
+Nao
+Nao
+Nao
+Nao
+Nao
+Nao
+Be
+Nao
+Sim
+Be
+Nao
+Sim
+Nao
+Sim
+Be, Ne, Mg, Sc, Cr, Ga, Ge, Ag, Cd, Sn, I, Cs, La, Pr, Eu, Er, Ta, Re, Os, Pb, Bi, Rn, Cm, Es, Fm, Md, Mt, Nh, Og
+Be
+Sim
+Nao
+Be, Ne, Mg, Sc, Cr, Ga, Ge, Ag, Cd, Sn, I, Cs, La, Pr, Eu, Er, Ta, Re, Os, Pb, Bi, Rn, Np, Cm, Es, Fm, Md, Bh, Mt, Nh, Og
+Sim
+Nao
+Nao
+Nao
+Nao
+Nao
+Nao
+Nao
+Nao
+Nao
+Be, C, Ne, Mg, Ar, Sc, Cr, Ga, Ge, Y, Ag, Cd, Sn, I, Cs, La, Pr, Eu, Er, Ta, Re, Os, Au, Pb, Bi, Rn, Pa, Np, Cm, Es, Fm, Md, Bh, Mt, Nh, Og
+Be, C, Ne, Mg, P, Ar, Sc, Cr, Ga, Ge, Y, Ag, Cd, Sn, I, Cs, La, Pr, Eu, Er, Ta, Re, Os, Au, Pb, Bi, Rn, Pa, Np, Cm, Es, Fm, Md, Bh, Mt, Nh, Og
+Be
+Sim
+Og
+Nao
+Nao
+Og
+Nao
+Nao
+Og
+Nao
+Nao
+Sim
+Nao
+Nao
+Sim
+Be
+Nao
+Nao
+Nao
+Be, C, N, Ne, Mg, P, Ar, K, Ca, Sc, Ti, Cr, Ga, Ge, As, Kr, Y, Mo, Ag, Cd, Sn, I, Xe, Cs, La, Pr, Eu, Tb, Er, Ta, Re, Os, Au, Pb, Bi, Po, Rn, Pa, Np, Cm, Es, Fm, Md, Bh, Mt, Ds, Nh, Og
+Sim
+Sim
+Sim
+Be
+Be, C, N, Ne, Mg, P, Ar, K, Ca, Sc, Ti, Cr, Ga, Ge, As, Kr, Y, Mo, Ag, Cd, Sn, I, Xe, Cs, La, Pr, Eu, Tb, Er, Lu, Ta, Re, Os, Au, Pb, Bi, Po, Rn, Pa, Np, Cm, Es, Fm, Md, Sg, Bh, Mt, Ds, Nh, Og
+Be
+Sim
+Sim
+Sim
+Be
+Sim
+Sim
+Sim
+Sim
+Nao

@@ -1,0 +1,197 @@
+Nao
+Nao
+Nao
+Nao
+Nao
+Sm
+Nao
+Sm
+Sm
+Nao
+Og
+Nao
+Nao
+Nao
+Mn, Ag, Cs, Ba, Sm, Np, Og
+Mn, Ag, Cs, Ba, Sm, Np, Og
+Nao
+Mn, Ag, Cs, Ba, Sm, Np, Og
+Mn, Ag, Cs, Ba, Sm, Np, Og
+Mn, Ag, Cs, Ba, Sm, Np, Og
+Mn, Ag, Cs, Ba, Sm, Np, Og
+Mn
+Og
+Mn, Ag, Cs, Ba, Sm, Np, Rf, Og
+Nao
+Og
+Mn, Ag, Cs, Ba, Sm, Np, Rf, Og
+Nao
+Nao
+Nao
+Nao
+Nao
+Cl
+Nao
+Cl, Mn, Zn, Zr, Tc, Ag, Ba, Pr, Sm, Np, Rf, Mt, Og
+Nao
+Nao
+Nao
+Og
+Nao
+N, Si, S, Cl, Mn, Fe, Zn, Zr, Tc, Ag, Xe, Ba, Pr, Sm, Dy, Ra, Np, Cm, Rf, Mt, Og
+N
+N, Si, S, Cl, Mn, Fe, Zn, Zr, Tc, Ag, Xe, Ba, Pr, Sm, Dy, Ra, Np, Cm, Rf, Mt, Og
+N
+Nao
+Nao
+Nao
+Nao
+N
+Sim
+Nao
+Nao
+Li
+Mt
+Li
+Nao
+Nao
+Sim
+Nao
+Nao
+Nao
+Nao
+Mt
+Mt
+Nao
+Sim
+Sim
+Sim
+Nao
+Sim
+Nao
+Li, Be, N, Ne, Si, S, Cl, Ti, Mn, Fe, Co, Zn, Rb, Zr, Tc, Ag, In, Te, Xe, Ba, La, Ce, Pr, Sm, Dy, Lu, W, Re, Os, Pt, Au, Ra, Ac, U, Np, Cm, Fm, Rf, Sg, Mt, Nh
+Li, Be, N, Ne, Si, S, Cl, Ti, Mn, Fe, Co, Zn, Rb, Zr, Tc, Ag, In, Te, Xe, Ba, La, Ce, Pr, Sm, Dy, Lu, W, Re, Os, Pt, Au, Ra, Ac, U, Np, Cm, Fm, Rf, Sg, Mt, Nh
+Li
+Nao
+Sim
+Sim
+Li
+Li
+Nao
+Nh
+Nao
+Sim
+Sim
+Nh
+Sim
+Nao
+Nh
+Nao
+Nao
+Sim
+Nh
+Nao
+Sim
+Nao
+Nao
+H, Li, Be, B, N, Ne, Mg, Si, S, Cl, Ar, Ca, Ti, Mn, Fe, Co, Cu, Zn, Ga, As, Rb, Y, Zr, Mo, Tc, Ag, In, Te, Xe, Ba, La, Ce, Pr, Dy, Lu, W, Re, Os, Ir, Pt, Au, Ra, Ac, U, Np, Cm, Bk, Cf, Fm, Rf, Sg, Bh, Mt, Nh
+Sim
+Nao
+Nao
+Nh
+H, Li, Be, B, N, Ne, Mg, Si, S, Cl, Ar, Ca, Ti, Mn, Fe, Co, Ni, Cu, Zn, Ga, As, Rb, Sr, Y, Zr, Mo, Tc, Ag, In, Te, Xe, Ba, Ce, Pr, Eu, Dy, Lu, W, Re, Os, Ir, Pt, Au, Po, Ra, Ac, U, Np, Cm, Bk, Cf, Fm, Rf, Sg, Bh, Mt, Nh
+Nao
+Nao
+H, Li, Be, B, N, Ne, Mg, Si, S, Cl, Ar, Ca, Ti, Mn, Fe, Co, Ni, Cu, Zn, Ga, As, Rb, Sr, Y, Zr, Mo, Tc, Ag, In, Te, Xe, Ba, Ce, Pr, Eu, Dy, Lu, W, Re, Os, Ir, Pt, Au, Bi, Po, Rn, Ra, Ac, U, Np, Cm, Bk, Cf, Fm, Rf, Sg, Bh, Mt, Nh
+Nh
+Sim
+Nao
+Sim
+H, Li, Be, B, N, Ne, Mg, Si, S, Cl, Ar, Ca, Ti, Mn, Fe, Co, Ni, Cu, Zn, Ga, As, Kr, Rb, Sr, Y, Zr, Mo, Tc, Ag, In, Te, Xe, Ba, Ce, Pr, Eu, Dy, Lu, W, Re, Os, Ir, Pt, Au, Bi, Po, Rn, Ra, Ac, U, Np, Cm, Bk, Cf, Fm, Rf, Sg, Bh, Mt, Ds, Rg, Nh
+Sim
+Nh
+Sim
+Sim
+H, Li, Be, B, N, Ne, Mg, Si, S, Cl, Ar, Ca, Ti, Mn, Fe, Co, Ni, Cu, Zn, Ga, As, Br, Kr, Rb, Sr, Y, Zr, Mo, Tc, Ag, In, Te, Xe, Ba, Ce, Pr, Eu, Dy, Lu, W, Re, Os, Ir, Pt, Au, Bi, Po, At, Rn, Ra, Ac, U, Np, Cm, Bk, Cf, Fm, Rf, Db, Sg, Bh, Mt, Ds, Rg, Nh
+Sim
+H
+Sim
+Sim
+Sim
+Sim
+Nao
+Sim
+Sim
+H
+Nao
+Nao
+Nao
+H, He, Li, Be, B, N, Ne, Mg, Al, Si, S, Cl, Ar, Ca, Ti, Mn, Fe, Co, Ni, Cu, Zn, Ga, As, Kr, Rb, Sr, Y, Zr, Mo, Tc, Ag, In, Sb, Te, Xe, Ba, Ce, Pr, Eu, Dy, Lu, W, Re, Os, Ir, Pt, Au, Bi, Po, At, Rn, Ra, Ac, Pa, U, Np, Am, Cm, Cf, Fm, Rf, Db, Sg, Bh, Mt, Ds, Rg, Nh
+Nao
+H
+Nao
+Sim
+Sim
+Nao
+Nh
+Nao
+H, He, Li, Be, B, N, Ne, Mg, Al, Si, S, Cl, Ar, K, Ca, Ti, Cr, Mn, Fe, Co, Ni, Cu, Zn, Ga, As, Kr, Rb, Y, Zr, Nb, Mo, In, Sn, Sb, Te, Xe, Ba, Ce, Pr, Eu, Dy, Ho, Lu, W, Re, Os, Ir, Pt, Au, Bi, Po, At, Rn, Fr, Ra, Ac, Pa, U, Np, Am, Cm, Cf, Fm, Rf, Db, Sg, Bh, Mt, Ds, Rg, Nh
+Sim
+Sim
+Sim
+Nao
+Nao
+Sim
+H, He, Li, Be, B, N, Ne, Mg, Al, Si, Cl, Ar, K, Ca, Ti, Cr, Mn, Fe, Co, Ni, Cu, Zn, Ga, Ge, As, Kr, Rb, Y, Zr, Nb, Mo, Pd, In, Sn, Sb, Te, Xe, Ba, Ce, Pr, Eu, Dy, Ho, Lu, W, Re, Os, Ir, Pt, Au, Bi, Po, At, Rn, Fr, Ra, Ac, Pa, U, Np, Am, Cm, Cf, Fm, Rf, Db, Sg, Bh, Mt, Ds, Rg, Nh
+H
+H
+Nao
+Sim
+H
+H, He, Li, Be, B, N, Ne, Mg, Al, Si, Cl, Ar, K, Ca, Ti, Cr, Mn, Fe, Co, Ni, Cu, Zn, Ga, Ge, As, Kr, Rb, Y, Zr, Nb, Mo, Pd, In, Sn, Sb, Te, Xe, Ba, Ce, Pr, Nd, Eu, Dy, Ho, Er, Lu, Ta, W, Re, Os, Ir, Pt, Au, Bi, Po, At, Rn, Fr, Ra, Ac, Pa, U, Np, Am, Cm, Cf, Fm, Rf, Db, Sg, Bh, Mt, Ds, Rg, Nh
+Nao
+H, He, Li, Be, B, N, Ne, Mg, Al, Si, Cl, Ar, K, Ca, Ti, Cr, Mn, Fe, Co, Ni, Cu, Zn, Ga, Ge, As, Kr, Rb, Y, Zr, Nb, Mo, Pd, Cd, In, Sn, Sb, Te, Xe, Ba, Ce, Pr, Nd, Eu, Dy, Ho, Er, Lu, Ta, W, Re, Os, Ir, Pt, Au, Bi, Po, At, Rn, Fr, Ra, Ac, Pa, U, Np, Am, Cm, Cf, Fm, Rf, Db, Sg, Bh, Mt, Ds, Rg, Nh
+H
+Nao
+Sim
+Sim
+Sim
+H
+Nao
+H, He, Li, Be, B, C, N, F, Ne, Na, Mg, Al, Si, Cl, Ar, K, Ca, Sc, Ti, Cr, Mn, Fe, Co, Ni, Cu, Zn, Ga, Ge, As, Kr, Rb, Y, Zr, Nb, Mo, Pd, Cd, In, Sn, Sb, Te, Xe, Ba, Ce, Pr, Nd, Eu, Gd, Dy, Ho, Er, Lu, Ta, W, Re, Os, Ir, Pt, Au, Bi, Po, At, Rn, Fr, Ra, Ac, Pa, U, Np, Am, Cm, Cf, Fm, Rf, Db, Sg, Bh, Mt, Ds, Rg, Cn, Nh
+Sim
+H, He, Li, Be, B, C, N, F, Ne, Na, Mg, Al, Si, Cl, Ar, Ca, Sc, Ti, Cr, Mn, Fe, Co, Ni, Cu, Zn, Ga, Ge, As, Kr, Rb, Y, Zr, Nb, Mo, Pd, Cd, In, Sn, Sb, Te, Xe, Ba, Ce, Pr, Nd, Eu, Gd, Dy, Ho, Er, Lu, Ta, W, Re, Os, Ir, Pt, Au, Tl, Bi, Po, At, Rn, Fr, Ra, Ac, Pa, U, Np, Am, Cm, Cf, Fm, Rf, Db, Sg, Bh, Mt, Ds, Rg, Cn, Nh
+Nh
+H, He, Li, Be, B, C, N, F, Ne, Na, Mg, Al, Si, P, Cl, Ar, Ca, Sc, Ti, Cr, Mn, Fe, Co, Ni, Cu, Zn, Ga, Ge, As, Kr, Rb, Y, Zr, Nb, Mo, Pd, Cd, In, Sn, Sb, Te, Xe, Ba, Ce, Pr, Nd, Eu, Gd, Dy, Ho, Er, Lu, Ta, W, Re, Os, Ir, Pt, Au, Tl, Bi, Po, At, Rn, Fr, Ra, Ac, Pa, U, Np, Am, Cm, Cf, Fm, Rf, Db, Sg, Bh, Mt, Ds, Rg, Cn, Nh
+Nao
+H
+Mc
+Sim
+Nao
+Nao
+Sim
+H
+H
+Sim
+Sim
+Sim
+Mc
+Mc
+Nao
+Sim
+Ts
+H, He, Li, Be, B, C, N, O, F, Ne, Na, Mg, Al, Si, P, Cl, Ar, Ca, Sc, Ti, Cr, Mn, Fe, Co, Ni, Cu, Zn, Ga, Ge, As, Se, Kr, Rb, Y, Zr, Nb, Mo, Rh, Pd, Cd, In, Sn, Sb, Te, I, Xe, Ba, Ce, Nd, Eu, Tb, Dy, Ho, Er, Yb, Lu, Hf, Ta, W, Re, Os, Ir, Pt, Au, Tl, Bi, Po, At, Rn, Fr, Ra, Ac, Th, Pa, U, Np, Pu, Am, Cm, Cf, Fm, Md, No, Lr, Rf, Db, Sg, Bh, Hs, Mt, Ds, Rg, Cn, Nh, Mc, Lv, Ts
+Sim
+H
+Ts
+Sim
+H, He, Li, Be, B, C, N, O, F, Ne, Na, Mg, Al, Si, P, Cl, Ar, Ca, Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Zn, Ga, Ge, As, Se, Kr, Rb, Y, Zr, Nb, Mo, Rh, Pd, Cd, In, Sn, Sb, Te, I, Xe, Ba, Ce, Nd, Eu, Tb, Dy, Ho, Er, Tm, Yb, Lu, Hf, Ta, W, Re, Os, Ir, Pt, Au, Tl, Bi, Po, At, Rn, Fr, Ra, Ac, Th, Pa, U, Np, Pu, Am, Cm, Cf, Fm, Md, No, Lr, Rf, Db, Sg, Bh, Hs, Mt, Ds, Rg, Cn, Nh, Mc, Lv, Ts
+H, He, Li, Be, B, C, N, O, F, Ne, Na, Mg, Al, Si, P, Cl, Ar, Ca, Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Zn, Ga, Ge, As, Se, Kr, Rb, Y, Zr, Nb, Mo, Rh, Pd, Cd, In, Sn, Sb, Te, I, Xe, Ba, Ce, Nd, Eu, Tb, Dy, Ho, Er, Tm, Yb, Lu, Hf, Ta, W, Re, Os, Ir, Pt, Au, Hg, Tl, Bi, Po, At, Rn, Fr, Ra, Ac, Th, Pa, U, Np, Pu, Am, Cm, Cf, Fm, Md, No, Lr, Rf, Db, Sg, Bh, Hs, Mt, Ds, Rg, Cn, Nh, Mc, Lv, Ts
+H
+Sim
+H
+H
+Nao
+Sim
+H, He, Li, Be, B, C, N, O, F, Ne, Mg, Al, Si, P, Cl, Ar, Ca, Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Zn, Ga, Ge, As, Se, Kr, Rb, Y, Zr, Nb, Mo, Ru, Rh, Pd, Cd, In, Sn, Sb, Te, Xe, Ba, Ce, Nd, Eu, Dy, Ho, Er, Tm, Yb, Lu, Hf, Ta, W, Re, Os, Ir, Pt, Au, Hg, Tl, Pb, Bi, Po, At, Rn, Fr, Ra, Ac, Th, Pa, U, Np, Pu, Am, Cm, Cf, Fm, Md, No, Lr, Rf, Db, Sg, Bh, Hs, Mt, Ds, Rg, Cn, Nh, Fl, Mc, Lv, Ts
+Nao

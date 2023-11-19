@@ -1,0 +1,89 @@
+Zn
+Ta
+Ta
+Nao
+Al
+Nao
+Rf
+Nao
+Al, Co, Cu, Ge, Se, Ru, Md, Rf
+Nao
+Nao
+Al
+Nao
+Nao
+Rf
+Al, Cr, Co, Cu, Ge, Se, Nb, Ru, Tm, Tl, Md, Rf
+Nao
+Al
+Nao
+Be, Al, Cr, Co, Cu, Ge, Se, Nb, Ru, Tm, Yb, Tl, Md, Rf
+Be, Al, Cr, Co, Ge, Se, Nb, Ru, Tm, Yb, Tl, Md, Rf
+Rf
+Be, Al, P, Cr, Co, Ge, Se, Nb, Ru, Pr, Tm, Yb, Tl, Md, Rf
+Nao
+Rf
+Nao
+Nao
+Be, Al, P, Cr, Co, Ge, Se, Rb, Nb, Ru, Pr, Tm, Yb, Tl, Md, Rf
+Be, Al, P, Cr, Co, Ge, Se, Rb, Nb, Ru, Pr, Tm, Yb, Tl, Md, Rf, Ds
+Nao
+Ds
+Nao
+Nao
+Ds
+Sim
+Be
+Be, Mg, Al, P, K, Cr, Co, Ge, Se, Rb, Y, Nb, Mo, Ru, Pr, Tm, Yb, Pt, Tl, Cf, Md, Rf, Db, Ds
+Nao
+Sim
+He
+Nao
+Nao
+Ds
+He
+Ds
+Nao
+Nao
+Sim
+Nao
+He, Be, Mg, Al, P, Cl, K, Sc, V, Cr, Ge, Rb, Nb, Ru, In, Sn, Te, Pr, Sm, Tm, Yb, W, Ir, Pt, Tl, Cf, Es, Md, Rf, Db, Ds, Rg, Nh, Fl
+Fl
+Nao
+Nao
+Sim
+Nao
+Nao
+Sim
+Sim
+Sim
+Sim
+Nao
+He, Be, F, Mg, Al, P, Cl, K, Sc, V, Cr, Ge, Kr, Rb, Zr, Nb, Ru, In, Sn, Sb, Te, Xe, Cs, Pr, Sm, Tm, Yb, W, Ir, Pt, Au, Tl, Pa, Cf, Es, Fm, Md, Rf, Db, Sg, Ds, Rg, Nh, Fl
+Sim
+He, Li, Be, F, Na, Mg, Al, P, Cl, K, Sc, V, Cr, Ge, Br, Kr, Rb, Zr, Nb, Ru, In, Sn, Sb, Te, Xe, Cs, Ce, Pr, Nd, Sm, Dy, Tm, Yb, W, Ir, Pt, Au, Tl, Pa, Am, Cf, Es, Fm, Md, Lr, Rf, Db, Sg, Ds, Rg, Cn, Nh, Fl
+He, Li, Be, F, Na, Mg, Al, P, Cl, K, Sc, V, Cr, Ge, Br, Kr, Rb, Zr, Nb, Ru, In, Sn, Sb, Te, Xe, Cs, Ce, Pr, Nd, Sm, Dy, Tm, Yb, W, Ir, Pt, Au, Tl, Pa, Am, Cf, Es, Fm, Md, Lr, Rf, Db, Sg, Ds, Rg, Cn, Nh, Fl
+Fl
+Nao
+Sim
+Nao
+H
+Nao
+Fl
+Nao
+Nao
+Sim
+Sim
+Sim
+Sim
+Og
+Nao
+Nao
+H, He, Li, Be, C, F, Na, Mg, Al, Cl, Ar, K, Sc, V, Cr, Ga, Ge, Br, Kr, Rb, Sr, Zr, Nb, Ru, Rh, In, Sn, Sb, Te, Xe, Cs, Ba, Ce, Pr, Sm, Eu, Tb, Dy, Tm, Yb, Hf, W, Ir, Pt, Tl, Bi, Po, At, Pa, U, Am, Cf, Es, Fm, Md, Lr, Db, Mt, Ds, Rg, Cn, Nh, Og
+Og
+H
+Sim
+Nao
+H, He, Li, Be, C, N, F, Mg, Al, S, Cl, Ar, K, Sc, V, Cr, Ga, Ge, Br, Kr, Rb, Sr, Zr, Nb, Ru, Rh, In, Sn, Sb, Te, Xe, Cs, Ba, Ce, Pr, Sm, Eu, Tb, Dy, Ho, Tm, Yb, Hf, W, Ir, Pt, Tl, Bi, Po, At, Pa, U, Am, Cm, Cf, Es, Fm, Md, Lr, Db, Mt, Ds, Rg, Cn, Nh, Og
+H
+Sim

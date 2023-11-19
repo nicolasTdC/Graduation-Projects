@@ -1,0 +1,34 @@
+C 36 Kr
+MIN
+C 82 Pb
+C 55 Cs
+V Kr
+E
+I 82 Pb
+I 36 Kr
+C 20 Ca
+MIN
+MAX
+C 102 No
+MAX
+C 9 F
+E
+I 102 No
+I 36 Kr
+MIN
+V Pb
+C 68 Er
+MAX
+C 48 Cd
+I 82 Pb
+C 104 Rf
+C 83 Bi
+V Er
+V Cd
+MIN
+C 47 Ag
+C 11 Na
+V Na
+I 11 Na
+E
+MAX
