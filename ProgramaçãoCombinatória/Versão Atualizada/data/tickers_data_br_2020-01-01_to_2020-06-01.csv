@@ -1,0 +1,517 @@
+Symbol,Sector,Current Price
+ABCB4,Financial Services,19.85
+AGRO3,Consumer Defensive,28.78
+RAIL3,Industrials,21.72
+ALPA3,Consumer Cyclical,7.99
+ALPA4,Consumer Cyclical,8.12
+ALSO3,Real Estate,22.13
+AMAR3,Consumer Cyclical,0.56
+ABEV3,Consumer Defensive,13.21
+ARZZ3,Consumer Cyclical,65.52
+BBAS3,Financial Services,46.8
+BBDC3,Financial Services,12.6
+BBDC4,Financial Services,14.38
+BEEF3,Consumer Defensive,8.15
+BPAN4,Financial Services,7.72
+BRAP3,Financial Services,20.04
+BRAP4,Financial Services,21.8
+BRFS3,Consumer Defensive,10.45
+APER3,Financial Services,31.4
+BRKM3,Basic Materials,21.35
+BRKM5,Basic Materials,19.6
+BRPR3,Real Estate,165.01
+BRSR6,Financial Services,11.93
+OIBR3,Communication Services,0.58
+OIBR4,Communication Services,1.93
+B3SA3,Financial Services,11.86
+CCRO3,Industrials,12.23
+CEDO4,Consumer Cyclical,15.0
+CGAS5,Utilities,128.52
+CGRA4,Consumer Cyclical,25.9
+CIEL3,Technology,3.43
+CMIG3,Utilities,19.31
+CMIG4,Utilities,12.21
+COCE5,Utilities,43.55
+CPFE3,Utilities,33.52
+CPLE3,Utilities,7.88
+CPLE6,Utilities,8.4
+CSAN3,Energy,16.29
+CSMG3,Utilities,16.93
+CSNA3,Basic Materials,11.56
+CTNM4,Consumer Cyclical,1.94
+CYRE3,Consumer Cyclical,19.69
+DASA3,Healthcare,12.4
+DIRR3,Real Estate,18.34
+ECOR3,Industrials,7.35
+ELET3,Utilities,35.4
+ELET6,Utilities,39.13
+EMBR3,Industrials,16.71
+ENGI4,Utilities,7.55
+EQTL3,Utilities,31.43
+YDUQ3,Consumer Defensive,20.93
+ETER3,Industrials,7.7
+EUCA4,Industrials,12.25
+EVEN3,Real Estate,6.1
+EZTC3,Real Estate,17.72
+FESA4,Basic Materials,47.09
+FHER3,Basic Materials,8.15
+TASA4,Industrials,15.34
+FLRY3,Healthcare,15.85
+FRIO3,Consumer Cyclical,45.05
+GFSA3,Consumer Cyclical,4.44
+GGBR3,Basic Materials,21.26
+GGBR4,Basic Materials,23.0
+GOAU3,Basic Materials,10.69
+GOAU4,Basic Materials,10.66
+GOLL4,Industrials,6.24
+GRND3,Consumer Cyclical,6.61
+GSHP3,Real Estate,13.2
+HBOR3,Real Estate,2.49
+PRIO3,Energy,43.9
+HYPE3,Healthcare,35.65
+MEAL3,Consumer Cyclical,1.85
+INEP3,Industrials,4.81
+INEP4,Industrials,3.62
+ITSA3,Industrials,9.02
+ITSA4,Industrials,8.89
+ITUB3,Financial Services,23.03
+ITUB4,Financial Services,27.21
+JBSS3,Consumer Defensive,18.21
+JFEN3,Real Estate,2.51
+JHSF3,Real Estate,4.57
+KEPL3,Industrials,10.84
+KLBN4,Basic Materials,4.75
+LEVE3,Consumer Cyclical,48.0
+LIGT3,Utilities,5.34
+LOGN3,Industrials,39.25
+LPSB3,Real Estate,2.08
+LREN3,Consumer Cyclical,12.93
+LUPA3,Energy,2.21
+MDIA3,Consumer Defensive,37.79
+MGEL4,Basic Materials,14.89
+MGLU3,Consumer Cyclical,1.89
+MILS3,Industrials,11.4
+ENEV3,Utilities,11.38
+MRFG3,Consumer Defensive,6.9
+MRVE3,Consumer Cyclical,9.43
+MULT3,Real Estate,24.1
+MYPK3,Consumer Cyclical,13.33
+ODPV3,Healthcare,10.71
+OSXB3,Energy,7.59
+PDGR3,Real Estate,4.08
+PETR3,Energy,35.62
+PETR4,Energy,32.62
+PFRM3,Healthcare,3.67
+PINE4,Financial Services,3.9
+PLAS3,Consumer Cyclical,7.78
+PMAM3,Basic Materials,4.55
+POMO3,Industrials,4.52
+POMO4,Industrials,5.73
+POSI3,Technology,7.06
+PSSA3,Financial Services,26.29
+PTBL3,Industrials,5.3
+PTNT4,Consumer Cyclical,9.03
+ENAT3,Energy,16.29
+QUAL3,Healthcare,2.93
+RAPT3,Industrials,9.2
+RAPT4,Industrials,11.3
+RDNI3,Real Estate,4.81
+RENT3,Industrials,55.54
+FRTA3,Consumer Defensive,2.43
+RNEW11,Utilities,3.69
+ROMI3,Industrials,12.0
+RSID3,Consumer Cyclical,3.76
+SANB11,Financial Services,26.06
+SBSP3,Utilities,60.84
+SCAR3,Real Estate,24.05
+SGPS3,Consumer Cyclical,2.22
+SHOW3,Consumer Cyclical,2.43
+SLCE3,Consumer Defensive,38.13
+SLED4,Consumer Cyclical,1.6
+SMTO3,Basic Materials,37.67
+EGIE3,Utilities,40.96
+TCSA3,Real Estate,2.88
+TECN3,Consumer Cyclical,3.5
+TEKA4,Consumer Cyclical,12.29
+TGMA3,Industrials,24.83
+TOTS3,Technology,26.8
+TPIS3,Industrials,4.0
+TRIS3,Real Estate,5.13
+TAEE11,Utilities,34.25
+TRPL4,Utilities,22.76
+UGPA3,Energy,18.45
+UNIP3,Basic Materials,71.47
+UNIP6,Basic Materials,78.85
+USIM3,Basic Materials,6.63
+USIM5,Basic Materials,6.42
+VALE3,Basic Materials,65.87
+VIVR3,Real Estate,3.36
+VIVT3,Communication Services,44.21
+VLID3,Industrials,17.0
+WEGE3,Industrials,35.16
+BRSR5,Financial Services,18.9
+SANB4,Financial Services,13.77
+STBP3,Industrials,8.23
+CGRA3,Consumer Cyclical,24.9
+CLSC4,Utilities,64.65
+COCE3,Utilities,50.01
+TASA3,Industrials,15.24
+COGN3,Consumer Defensive,2.6
+RADL3,Healthcare,27.6548
+UCAS3,Consumer Cyclical,2.54
+ALUP11,Utilities,28.65
+ANIM3,Consumer Defensive,2.81
+BBSE3,Financial Services,32.2
+CVCB3,Consumer Cyclical,2.57
+SEER3,Consumer Defensive,6.19
+TUPY3,Industrials,26.5
+SQIA3,Technology,27.2
+BIOM3,Healthcare,4.53
+KLBN11,Basic Materials,23.88
+NUTR3,Basic Materials,3.78
+BAZA3,Financial Services,90.0
+HGBS11,Real Estate,229.39
+HGPO11,Real Estate,275.27
+ABCP11,Financial,66.9
+RBED11,Financial Services,140.63
+BBPO11,Financial,96.75
+BBRC11,Financial,113.95
+BPFF11,Real Estate,69.25
+BRCR11,Real Estate,58.58
+CTXT11,Real Estate,12.38
+CXTL11,Financial,292.5
+EURO11,Financial,239.15
+FIGS11,Real Estate,64.28
+FLMA11,Financial,136.02
+FPAB11,Real Estate,201.0
+HMOC11,Financial,226.95
+HGCR11,Financial,106.49
+HGLG11,Real Estate,159.9
+HGRE11,Real Estate,131.7
+JSRE11,Financial,73.5
+KNCR11,Financial,99.61
+KNRE11,Real Estate,0.54
+KNRI11,Financial,158.73
+MXRF11,Real Estate,10.91
+ONEF11,Real Estate,199.78
+PQDP11,Financial,1990.0
+PRSV11,Financial,82.8
+RBBV11,Real Estate,100.0
+RBGS11,Financial,28.45
+RBRD11,Financial,39.78
+RBVO11,Real Estate,8.5
+RNDP11,Financial,145.0
+RNGO11,Real Estate,43.38
+SHPH11,Financial,782.04
+SPTW11,Financial,40.85
+VRTA11,Real Estate,87.3
+XPCM11,Real Estate,10.9
+SANB3,Financial Services,12.37
+FRAS3,Consumer Cyclical,15.66
+GEPA4,Utilities,25.6
+OFSA3,Healthcare,20.99
+AAPL34,Technology,44.65
+ABTT34,Healthcare,40.84
+AMGN34,Healthcare,48.13
+AMZO34,Consumer Cyclical,32.68
+ARMT34,Basic Materials,61.56
+ATTB34,Communication Services,25.06
+AXPB34,Financial Services,75.6124
+BERK34,Financial Services,88.23
+BOAC34,Financial Services,33.28
+CMCS34,Communication Services,44.65
+COCA34,Consumer Defensive,47.21
+CSCO34,Technology,55.05
+DISB34,Communication Services,27.25
+EXXO34,Energy,71.52
+FDMO34,Consumer Cyclical,61.68
+GEOO34,Industrials,556.77
+GSGI34,Financial Services,53.22
+HALI34,Energy,196.56
+HOME34,Consumer Cyclical,53.6
+HPQB34,Technology,134.11
+ITLC34,Technology,30.76
+JNJB34,Healthcare,53.29
+JPMC34,Financial Services,73.245
+LMTB34,Industrials,2058.5
+MMMC34,Industrials,113.38
+MRCK34,Healthcare,65.72
+MSCD34,Financial Services,65.3108
+MSFT34,Technology,68.42
+NIKE34,Consumer Cyclical,49.31
+ORCL34,Technology,90.87
+PFIZ34,Healthcare,42.74
+PGCO34,Consumer Defensive,53.75
+SBUB34,Consumer Cyclical,467.66
+VERZ34,Communication Services,27.01
+VISA34,Financial Services,59.49
+WALM34,Consumer Defensive,51.63
+WFCO34,Financial Services,49.97
+BOEI34,Industrials,961.17
+CHVX34,Energy,83.66
+COPH34,Energy,48.1
+CTGP34,Financial Services,34.05
+IBMB34,Technology,721.36
+LILY34,Healthcare,91.12
+MCDC34,Consumer Cyclical,65.85
+MFII11,Real Estate,93.09
+MSBR34,Financial Services,81.12
+NFLX34,Communication Services,38.89
+PEPB34,Consumer Defensive,58.13
+SLBG34,Energy,143.1
+UPSS34,Industrials,49.44
+USBC34,Financial Services,40.64
+GUAR3,Consumer Cyclical,5.18
+ACNB34,Technology,1594.22
+BONY34,Financial Services,212.1
+DHER34,Healthcare,39.74
+KMBB34,Consumer Defensive,622.8
+METB34,Financial Services,319.04
+TELB4,Communication Services,12.0
+TGTB34,Consumer Defensive,550.43
+WHRL3,Consumer Cyclical,4.43
+BMYB34,Healthcare,291.0693
+COLG34,Consumer Defensive,51.75
+COTY34,Consumer Defensive,26.15
+EBAY34,Consumer Cyclical,109.58
+FCXO34,Basic Materials,61.38
+FDXB34,Industrials,1343.61
+GDBR34,Industrials,1136.9358
+HSHY34,Consumer Defensive,204.8
+MDLZ34,Consumer Defensive,176.12
+MOSC34,Basic Materials,28.65
+QCOM34,Technology,47.03
+TEXA34,Technology,54.34
+WUNI34,Financial Services,67.9
+XRXB34,Technology,77.7995
+SHUL4,Consumer Cyclical,7.6
+ATOM3,Communication Services,2.2
+KHCB34,Consumer Defensive,42.92
+SAPR4,Utilities,4.46
+CRIV4,Financial Services,6.38
+RPMG3,Energy,2.31
+BRSR3,Financial Services,12.35
+ENGI11,Utilities,45.05
+SNSY5,Consumer Cyclical,4.24
+AZEV4,Industrials,2.46
+BAHI3,Consumer Defensive,9.8
+BALM4,Healthcare,10.55
+BAUH4,Consumer Defensive,70.99
+BDLL4,Industrials,9.7
+BEES3,Financial Services,8.52
+BEES4,Financial Services,9.82
+BGIP4,Financial Services,23.0
+BMEB3,Financial Services,15.07
+BMEB4,Financial Services,12.0
+BMIN3,Financial Services,22.4
+BMIN4,Financial Services,16.4
+BMKS3,Consumer Cyclical,300.0
+BNBR3,Financial Services,91.96
+BOBR4,Consumer Defensive,1.68
+BRIV3,Financial Services,11.35
+BRIV4,Financial Services,11.39
+BSLI4,Financial Services,12.1
+CBEE3,Utilities,13.54
+CEEB3,Utilities,38.6584
+CEEB5,Utilities,54.2484
+CGAS3,Utilities,119.9836
+CRIV3,Financial Services,6.0
+CRPG5,Basic Materials,44.04
+CRPG6,Basic Materials,38.1
+CSRN3,Utilities,23.0851
+CTKA4,Consumer Cyclical,15.47
+CTNM3,Consumer Cyclical,8.9
+CTSA3,Consumer Cyclical,2.7
+CTSA4,Consumer Cyclical,1.94
+DOHL4,Consumer Cyclical,5.65
+DTCY3,Communication Services,5.0
+EALT4,Industrials,8.27
+EKTR4,Utilities,37.05
+EMAE4,Utilities,63.51
+ENGI3,Utilities,15.04
+ENMT3,Utilities,61.96
+ESTR4,Consumer Cyclical,6.3
+FESA3,Basic Materials,57.01
+HAGA4,Industrials,1.24
+HBTS5,Real Estate,56.5
+HETA4,Consumer Defensive,6.38
+HOOT4,Consumer Cyclical,2.38
+JOPA3,Consumer Defensive,21.0
+JOPA4,Consumer Defensive,33.8
+KLBN3,Basic Materials,4.78
+MNDL3,Consumer Defensive,56.28
+MNPR3,Consumer Defensive,14.58
+MTSA4,Industrials,47.63
+MWET4,Consumer Cyclical,8.57
+PEAB4,Financial Services,73.6738
+PNVL3,Healthcare,11.56
+RANI3,Consumer Cyclical,11.94
+RCSL3,Industrials,1.81
+RCSL4,Industrials,1.16
+REDE3,Utilities,5.71
+RPAD5,Industrials,7.99
+RPAD6,Industrials,7.65
+WLMM3,Consumer Cyclical,27.0
+WLMM4,Consumer Cyclical,39.08
+SLED3,Consumer Cyclical,3.21
+SOND5,Industrials,49.98
+SOND6,Industrials,55.0
+TELB3,Communication Services,16.0
+TRPL3,Utilities,30.13
+UNIP5,Basic Materials,84.97
+USIM6,Basic Materials,16.31
+VULC3,Consumer Cyclical,19.09
+WHRL4,Consumer Cyclical,4.47
+ANCR11B,Financial,3466.0
+BBFI11B,Real Estate,955.0
+CEOC11,Financial,46.93
+CXCE11B,Financial,39.59
+DRIT11B,Financial,85.21
+EDFO11B,Real Estate,190.3182
+FAMB11B,Real Estate,966.0
+FCFL11,Financial,116.5
+FIIP11B,Real Estate,170.01
+ARNC34,Industrials,234.83
+ABBV34,Healthcare,47.35
+BBYY34,Consumer Cyclical,345.8
+BCRI11,Real Estate,69.33
+BIIB34,Healthcare,206.5
+BLAK34,Financial Services,49.65
+COWC34,Consumer Defensive,73.52
+CTSH34,Technology,343.04
+CVSH34,Healthcare,35.2
+CXRI11,Financial,81.05
+DEAI34,Industrials,182.7
+FSLR34,Technology,389.61
+GILD34,Healthcare,188.97
+GOGL34,Communication Services,57.95
+GOGL35,Communication Services,58.36
+GPSI34,Consumer Cyclical,53.55
+MACY34,Consumer Cyclical,58.92
+MDTC34,Healthcare,196.6
+RIGG34,Energy,38.1
+ROST34,Consumer Cyclical,288.47
+SCHW34,Financial Services,33.15
+SSFO34,Technology,47.26
+TMOS34,Healthcare,53.74
+TRVC34,Financial Services,25.86
+USSX34,Basic Materials,169.23
+VLOE34,Energy,331.44
+AALR3,Healthcare,9.5
+AFLT3,Utilities,7.5
+BGIP3,Financial Services,25.86
+BNFS11,Financial,120.58
+CBOP11,Financial,31.49
+CEBR3,Utilities,13.7
+CEDO3,Consumer Cyclical,16.01
+FIIB11,Financial,517.0
+FIVN11,Financial,3.99
+FMOF11,Financial,57.66
+FNOR11,Financial,0.72
+GPAR3,Utilities,44.51
+MMXM11,Basic Materials,2.1
+PABY11,Real Estate,22.79
+PATI4,Basic Materials,32.0
+PLRI11,Financial,17.0
+PORD11,Real Estate,88.7
+RBDS11,Financial,2.6
+RPAD3,Industrials,7.55
+SCPF11,Financial,4.96
+AIGB34,Financial Services,307.83
+DUKB34,Utilities,443.0
+MOVI3,Industrials,10.98
+BPAC11,Financial Services,30.83
+PPLA11,Financial Services,3.88
+AALL34,Industrials,64.5
+GMCO34,Consumer Cyclical,39.95
+UPAC34,Industrials,256.1
+RNEW3,Utilities,1.21
+RNEW4,Utilities,1.23
+AZUL4,Industrials,13.25
+KNIP11,Financial,92.71
+TEND3,Real Estate,12.64
+TSLA34,Consumer Cyclical,42.06
+CRFB3,Consumer Defensive,8.83
+IRBR3,Financial Services,42.23
+GGRC11,Financial,114.04
+GEPA3,Utilities,23.69
+SAPR3,Utilities,4.34
+CAML3,Consumer Defensive,7.94
+VISC11,Financial,117.44
+SUZB3,Basic Materials,55.0
+SAPR11,Utilities,22.2
+NEOE3,Utilities,17.9
+FMXB34,Consumer Defensive,527.81
+HONB34,Industrials,923.68
+ALZR11,Financial,115.75
+DDNB34,Basic Materials,363.96
+UBSG34,Financial Services,123.96
+TXRX4,Consumer Cyclical,3.07
+OUJP11,Financial,98.59
+BCIA11,Real Estate,101.44
+BOXP34,Real Estate,27.99
+GPRO34,Technology,15.62
+MSPA3,Basic Materials,46.25
+HFOF11,Financial,75.25
+RBRF11,Financial,78.57
+HAPV3,Financial Services,4.37
+GPIV33,Financial Services,2.9
+THRA11,Financial,9.800003
+TAEE4,Utilities,11.49
+RBRR11,Financial,87.56
+MGFF11,Financial,67.01
+HGRU11,Financial,130.63
+ALUP3,Utilities,9.48
+ALUP4,Utilities,9.54
+LOGG3,Real Estate,19.0
+KNHY11,Financial,101.99
+FVPQ11,Financial,118.57
+CARE11,Real Estate,1.83
+TAEE3,Utilities,11.4
+VSHO11,Financial,75.82
+AZEV3,Industrials,2.37
+AHEB3,Consumer Cyclical,18.95
+BALM3,Healthcare,10.15
+BPAC3,Financial Services,14.23
+EALT3,Industrials,7.9
+HAGA3,Industrials,2.62
+LIPR3,Utilities,70.21
+PATI3,Basic Materials,25.15
+PEAB3,Financial Services,33.9
+BPAC5,Financial Services,8.25
+BRGE11,Financial Services,10.46
+BRGE12,Financial Services,10.77
+BRGE6,Financial Services,11.03
+ENMT4,Utilities,65.0
+LUXM4,Industrials,19.0
+MERC4,Financial Services,7.16
+RSUL4,Consumer Cyclical,67.5
+PATC11,Financial,73.01
+BBDC3,Financial Services,12.6
+VILG11,Financial,104.02
+MELI34,Consumer Cyclical,53.04
+MOAR3,Industrials,388.0
+RBVA11,Financial,111.24
+VTLT11,Financial,96.71
+GTWR11,Financial,83.69
+DMAC11,Financial,13.0
+HCTR11,Financial,29.8
+HSML11,Financial,91.99
+HABT11,Financial,90.43
+RECT11,Financial,45.1
+FTCE11B,Financial,2900.89
+HGFF11,Financial,85.08
+HUSC11,Financial,115.89
+JPPC11,Real Estate,200.0
+KINP11,Financial,9.82
+LATR11B,Financial,9.51
+NVHO11,Financial,10.79
+PRSN11B,Real Estate,1.24
+RBRP11,Financial,55.25
+RBRY11,Financial,100.49
+RCFA11,Financial,2.05
+SAIC11B,Financial,37.0
+WTSP11B,Financial,35.7
+VIVA3,Consumer Cyclical,27.31
+CEAB3,Consumer Cyclical,5.09
+BMGB4,Financial Services,2.39
