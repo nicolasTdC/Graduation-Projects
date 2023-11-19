@@ -1,0 +1,27 @@
+Comparing files TESTES\01.txt and TESTES\01.OUT
+FC: no differences encountered
+
+Comparing files TESTES\02.txt and TESTES\02.OUT
+FC: no differences encountered
+
+Comparing files TESTES\03.txt and TESTES\03.OUT
+FC: no differences encountered
+
+Comparing files TESTES\04.txt and TESTES\04.OUT
+FC: no differences encountered
+
+Comparing files TESTES\05.txt and TESTES\05.OUT
+FC: no differences encountered
+
+Comparing files TESTES\06.txt and TESTES\06.OUT
+FC: no differences encountered
+
+Comparing files TESTES\07.txt and TESTES\07.OUT
+FC: no differences encountered
+
+Comparing files TESTES\08.txt and TESTES\08.OUT
+FC: no differences encountered
+
+Comparing files TESTES\09.txt and TESTES\09.OUT
+FC: no differences encountered
+

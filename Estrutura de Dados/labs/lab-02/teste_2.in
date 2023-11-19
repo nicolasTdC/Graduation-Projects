@@ -1,0 +1,18 @@
+N 3
+I 2
+10.48550/arXiv.1706.03762 7 Vaswani Shazeer Parmar Uszkoreit Jones Gomez Kaiser 2017 30
+10.1038/s41586-021-03819-2 4 Jumper Evans Pritzel Green 2021 596
+P
+I 2
+10.1145/130385.130401 3 Boser Guyon Vapnik 1992 5\
+10.1109/5.726791 4 Lecun Bottou Bengio Haffner 1998 86
+P
+B 10.1038/s41586-021-03819-2
+B 10.0000/11111
+R 10.1038/s41586-021-03819-2
+B 10.1038/s41586-021-03819-2
+R 10.0000/22222
+I 1
+10.1109/5.726791 4 Lecun Bottou Bengio Haffner 1998 86
+P
+F
