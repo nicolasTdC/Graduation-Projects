@@ -53,13 +53,16 @@ def previsao_preco(t, historical_price,current_price,taxa_livre):
     X_train = np.reshape(X_train, (X_train.shape[0], X_train.shape[1],1))
     y_train = np.reshape(y_train, (y_train.shape[0],1))
 
-      
     model_lstm = Sequential()
     model_lstm.add(LSTM(64, return_sequences=True,input_shape = (X_train.shape[1], 1))) #64 lstm neuron block
+    model_lstm.add(Dropout(0.2))
     model_lstm.add(LSTM(64, return_sequences= False))
+    model_lstm.add(Dropout(0.2))
     model_lstm.add(Dense(32))
+    model_lstm.add(Dropout(0.2))
     model_lstm.add(Dense(1))
     model_lstm.compile(loss = "mean_squared_error", optimizer = "adam", metrics = ["accuracy"])
+    model_lstm.fit(X_train, y_train, epochs = 10, batch_size = 10)
     
     X_input = valid_prices[-time_step:]
     
