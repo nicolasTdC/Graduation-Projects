@@ -1,0 +1,1 @@
+Tradução automática utilizando mecanismo de atenção.
