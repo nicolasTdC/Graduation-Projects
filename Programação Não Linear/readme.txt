@@ -1,0 +1,1 @@
+Implementação e experimentos com algoritmos de otimização não lineares.
